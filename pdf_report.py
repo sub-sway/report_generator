@@ -610,6 +610,13 @@ def create_combined_report(
             "max_width_mm": "최대 폭(mm)",
             "area_mm2": "결함 면적(mm²)",
             "confidence": "AI 검출 신뢰도",
+            "measurement_basis": "치수 산출 근거",
+            "measurement_limit_mm": "측정 한계(mm)",
+            "measurement_note": "측정 비고",
+            "detector_grade": "탐지기 예비 등급",
+            "width_change_status": "폭 변화 상태",
+            "observed_at": "관측 일시",
+            "damage_no": "손상 번호",
         }
 
         basic_rows = [[

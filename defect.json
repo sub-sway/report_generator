@@ -1,21 +1,36 @@
 [
   {
-    "facility": "교량",
-    "component": "교량 슬래브",
-    "location": "STA.120+35, 좌측 차로 하부 1.8m",
+    "facility": "터널",
+    "component": "터널 라이닝 (철근콘크리트)",
+    "location": "터널 본체, 우측 아치부",
     "defect": "균열",
-    "length_mm": 420,
-    "max_width_mm": 0.32,
-    "confidence": 0.91,
-    "image_path": "inspection_001.jpg"
+    "length_mm": 4486.8,
+    "max_width_mm": 14.93,
+    "area_mm2": 37110.7,
+    "confidence": 0.374,
+    "measurement_basis": "Depth 근사 축척(마커 없음, 오차 큼 · 고해상도 재측정)",
+    "measurement_limit_mm": 5.746,
+    "detector_grade": "e등급 (참고용) · 철근콘크리트 균열폭 기준 · P95 기반 프로젝트 예비 분류, 구조 안전등급 아님",
+    "width_change_status": "비교 보류: 초기 관측과 보정 방식·축척이 다름",
+    "observed_at": "2026-09-07 16:48:43",
+    "damage_no": "D-83",
+    "image_path": "../captures/crack_20260907_164843_425.png"
   },
   {
-    "facility": "교량",
-    "component": "교각",
-    "location": "P2 교각, 우측면 2.1m",
-    "defect": "누수",
-    "area_mm2": 12500,
-    "confidence": 0.87,
-    "image_path": "inspection_002.jpg"
+    "facility": "터널",
+    "component": "터널 라이닝 (철근콘크리트)",
+    "location": "터널 본체, 우측 아치부",
+    "defect": "균열",
+    "length_mm": 846.9,
+    "max_width_mm": 3.08,
+    "area_mm2": 1471.4,
+    "confidence": 0.439,
+    "measurement_basis": "Depth 근사 축척(마커 없음, 오차 큼 · 고해상도 재측정)",
+    "measurement_limit_mm": 1.233,
+    "detector_grade": "e등급 (참고용) · 철근콘크리트 균열폭 기준 · P95 기반 프로젝트 예비 분류, 구조 안전등급 아님",
+    "width_change_status": "초기 기준 관측",
+    "observed_at": "2026-09-07 16:47:49",
+    "damage_no": "D-81",
+    "image_path": "../captures/crack_20260907_164749_622.png"
   }
 ]

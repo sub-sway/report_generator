@@ -1,0 +1,21 @@
+[
+  {
+    "facility": "교량",
+    "component": "교량 슬래브",
+    "location": "STA.120+35, 좌측 차로 하부 1.8m",
+    "defect": "균열",
+    "length_mm": 420,
+    "max_width_mm": 0.32,
+    "confidence": 0.91,
+    "image_path": "inspection_001.jpg"
+  },
+  {
+    "facility": "교량",
+    "component": "교각",
+    "location": "P2 교각, 우측면 2.1m",
+    "defect": "누수",
+    "area_mm2": 12500,
+    "confidence": 0.87,
+    "image_path": "inspection_002.jpg"
+  }
+]

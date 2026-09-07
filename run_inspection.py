@@ -20,7 +20,7 @@ EMBEDDING_MODEL = os.getenv(
 
 LLM_MODEL = os.getenv(
     "OPENAI_LLM_MODEL",
-    "gpt-4.1-mini",
+    "gpt-5.6-terra",
 )
 
 client = OpenAI()
