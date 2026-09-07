@@ -1,0 +1,8 @@
+# 환경 변수 (API 키 포함)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
